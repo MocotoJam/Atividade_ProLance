@@ -63,7 +63,7 @@
     padding-left: 100px;
     padding-top: 120px;
     width: 1255px;
-    background-color: #5ce1e6;
+    background: linear-gradient(135deg, #5CE4E4, #2C3872);
 }
 
 .container-conteudo .container-left-home h1 {
